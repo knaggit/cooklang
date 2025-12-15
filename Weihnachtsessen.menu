@@ -1,0 +1,12 @@
+---
+servings: 6
+---
+
+==Hauptgericht==
+
+- @./Hauptgericht/Rague{6%servings}
+- @./Beilage/Rotkohl{6%servings}
+
+==Nachtisch==
+
+- @./Dessert/Tiramisu{6%servings}
