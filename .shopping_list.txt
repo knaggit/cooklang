@@ -1,0 +1,4 @@
+# Shopping List
+# Format: path<TAB>name<TAB>scale
+
+Saucen/Bechamel.cook	Vegane Béchamelsauce	1
