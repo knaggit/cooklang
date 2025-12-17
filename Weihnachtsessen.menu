@@ -4,8 +4,9 @@ servings: 6
 
 ==Hauptgericht==
 
-- @./Hauptgericht/Rague{6%servings}
-- @./Beilage/Rotkohl{6%servings}
+- @./Hauptgericht/Rague{8%servings}
+- @./Beilage/Rotkohl{8%servings}
+- @./Beilage/Semmelknödel{8%servings}
 
 ==Nachtisch==
 

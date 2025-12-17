@@ -1,0 +1,192 @@
+---
+emoji:
+  cookware:
+    - bowl_with_spoon:
+        - large bowl
+    - cookie:
+        - baking sheet
+    - page_facing_up:
+        - parchment paper
+    - shallow_pan_of_food:
+        - medium saucepan
+    - spoon:
+        - spatula
+  ingredients:
+    - apple:
+        - apple
+        - apple sauce
+    - bagel:
+        - cream cheese
+    - bell_pepper:
+        - bell pepper
+    - bread:
+        - bread crumbs
+        - bread
+    - butter:
+        - butter
+        - tofu
+    - candy:
+        - sugar
+        - powdered sugar
+        - confectioner's sugar
+    - carrot:
+        - carrot
+        - frozen vegetables
+    - cheese_wedge:
+        - ricotta
+        - cheddar
+        - cheese
+        - jack
+        - Parmesan
+    - chestnut:
+        - nutmeg
+        - almonds
+        - pine nuts
+    - chocolate_bar:
+        - chocolate
+        - chocolate chips
+    - coconut:
+        - coconut
+    - cup_with_straw:
+        - baking soda
+    - curry:
+        - curry powder
+        - lentils
+    - custard:
+        - cinnamon
+    - dango:
+        - marshmallows
+    - dash:
+        - baking powder
+    - droplet:
+        - water
+    - ear_of_rice:
+        - flour
+        - oats
+    - egg:
+        - egg
+        - mayonnaise
+    - eggplant:
+        - eggplant
+    - falafel:
+        - chickpeas
+        - falafel
+    - fallen_leaf:
+        - bay leaf
+    - four_leaf_clover:
+        - clove
+    - garlic:
+        - garlic
+        - shallot
+    - glass_of_milk:
+        - almond milk
+        - milk
+        - whole milk
+        - lowfat milk
+        - skim milk
+    - grapes:
+        - grapes
+        - grape jelly
+        - grape jam
+    - green_circle:
+        - peas
+        - pea pods
+    - green_salad:
+        - vinaigrette
+        - dressing
+    - herb:
+        - cumin
+        - basil
+        - parsley
+        - thyme
+        - oregano
+        - cilantro
+        - coriander
+    - honey_pot:
+        - honey
+    - hotdog:
+        - chorizo
+        - mustard
+        - Dijon mustard
+        - sausage
+    - hot_pepper:
+        - chile
+        - paprika
+        - chili powder
+    - hotsprings:
+        - hot water
+    - icecream:
+        - vanilla
+        - icecream
+    - ice_cube:
+        - ice water
+    - jack_o_lantern:
+        - pumpkin
+    - leafy_green:
+        - cabbage
+        - red cabbage
+        - shredded cabbage
+        - spinach
+    - lemon:
+        - lemon
+        - lemon juice
+        - lemon zest
+        - lime
+        - lime juice
+        - lime zest
+    - maple_leaf:
+        - maple syrup
+        - syrup
+        - molasses
+        - brown sugar
+    - microbe:
+        - nutritional yeast
+    - olive:
+        - olive
+        - olive oil
+    - onion:
+        - onion
+    - orange_circle:
+        - orange
+    - peanuts:
+        - peanuts
+        - peanut butter
+    - pineapple:
+        - pineapple
+    - rice:
+        - rice
+        - sour cream
+    - salt:
+        - salt
+        - pepper
+    - seedling:
+        - pumpkin seeds
+        - sunflower seeds
+        - pepitas
+    - spaghetti:
+        - spaghetti
+        - pasta
+        - macaroni
+    - sponge:
+        - pulp
+        - capers
+    - strawberry:
+        - strawberries
+        - strawberry jam
+        - strawberry jelly
+    - sweet_potato:
+        - ginger
+    - takeout_box:
+        - soysauce
+    - tangerine:
+        - tangerine
+        - orange
+    - tomato:
+        - tomato
+        - marinara sauce
+    - tulip:
+        - saffron
+    - tumbler_glass:
+        - rum
+    - wine_glass:
+        - wine
