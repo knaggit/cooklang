@@ -1,0 +1,12 @@
+# macOS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Temp artifacts
+*.tmp
+*.bak
